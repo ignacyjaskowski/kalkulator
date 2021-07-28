@@ -31,7 +31,7 @@ input.onButtonPressed(Button.AB, function () {
             basic.clearScreen()
         } else if (_ == 4) {
             lidżba = 0
-            wynik = wynik ** _1
+            wynik = wynik / _1
             _1 = 0
             _ = 0
             basic.clearScreen()
